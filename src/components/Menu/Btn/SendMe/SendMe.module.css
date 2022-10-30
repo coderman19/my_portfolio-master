@@ -1,0 +1,17 @@
+.sendme {
+  width: 100px;
+  border-radius: 6px;
+  background-color: #3137C9;
+  cursor: pointer;
+}
+
+.sendme div {
+  padding: 5px 5px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 10px;
+  text-align: center;
+  color: #FFFFFF;
+}

@@ -1,0 +1,5 @@
+.header {
+  /* background-color:  #020418a4; */
+  background: linear-gradient(90deg, rgb(2, 2, 68), rgb(6, 211, 132));
+  grid-area: header;
+}

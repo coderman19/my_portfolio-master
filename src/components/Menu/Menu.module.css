@@ -1,0 +1,28 @@
+.menu {
+  /* background: linear-gradient(rgb(5, 1, 43), rgb(22, 22, 22)); */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  border-right: 1px solid #89ecf3;
+  filter: drop-shadow(0px 4px 4px rgba(88, 228, 233, 0.25));
+}
+
+.headLine {
+  border: 1px solid #ccc;
+  width: 80%;
+  /* box-shadow: 2px 2px #07d8e7; */
+  margin-bottom: 14px;
+}
+
+.smArticle {
+  /* width: 220px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.smArticle h4 {
+  margin: 0 auto;
+}

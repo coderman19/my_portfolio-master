@@ -1,0 +1,10 @@
+.btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 6px;
+  /* padding: 0 10px; */
+  text-align: center;
+  margin-bottom: 15px;
+
+}

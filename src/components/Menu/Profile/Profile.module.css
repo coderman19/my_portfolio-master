@@ -1,0 +1,16 @@
+.profile {
+  /* position: relative; */
+  margin: 0 auto;
+  width: 60px;
+  height: 60px;
+  align-items: center;
+  text-align: center;
+  border-radius: 50%;
+  background-image: url("../../../img/profile/foto-1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}

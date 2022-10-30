@@ -1,0 +1,24 @@
+.info {
+  margin: 0 auto;
+}
+
+.infoTitle {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 21px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 6px;
+}
+
+.infoName {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #dedede;
+}

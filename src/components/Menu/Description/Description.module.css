@@ -1,0 +1,17 @@
+.descr {
+  width: 400px;
+  padding: 0 5px;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 16px;
+}
+
+.descr p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #ffffff;
+}
